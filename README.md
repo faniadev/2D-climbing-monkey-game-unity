@@ -16,3 +16,6 @@ Details of The Game:
 - This game is inspired by the fact that we, the exchange program students is very fond of the building of Malaysia, especially twin tower.
 - The reason why we choose the player/character is inspired by our dorm at UKM itself. We can find a lot of monkeys around here but you can hardly find one at         universities in Indonesia
 - The obstacle will be in form of kite.
+
+![home screen](https://user-images.githubusercontent.com/32093736/86373398-90078f00-bcad-11ea-9ae7-122fc226a2e9.png)
+![play scene](https://user-images.githubusercontent.com/32093736/86373429-97c73380-bcad-11ea-8a68-f36883c4128b.png)
